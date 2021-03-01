@@ -1,0 +1,1 @@
+This is a practice repo for storing some scripts for exercising.
